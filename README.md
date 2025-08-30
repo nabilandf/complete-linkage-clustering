@@ -1,7 +1,6 @@
 # 🌿 Complete Linkage Clustering - Data Produksi Kunyit
 
-Proyek ini berisi analisis **pengelompokan hierarki (hierarchical clustering)** menggunakan metode **Complete Linkage** pada data produksi kunyit per kecamatan. Analisis dilakukan dengan R dan mencakup preprocessing data, uji asumsi, pembentukan cluster, serta validasi menggunakan **Silhouette Method**.
-
+This project presents a hierarchical clustering analysis using the Complete Linkage method on turmeric production data by district. The analysis was conducted in R and includes data preprocessing, assumption testing, cluster formation, and validation using the Silhouette Method.
 ---
 
 ## 📊 Dataset
@@ -34,8 +33,8 @@ library(readxl)
 4. Visualization of dendrogram for cluster interpretation  
 
 📈 Results
+
 🔗 Clustering Dendrogram
-The analysis successfully identified production clusters, which can be used for **agricultural planning and policy recommendations**.
 
 ![Clustering Result](Clustering_result.jpeg)
 
