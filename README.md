@@ -15,7 +15,7 @@ Proyek ini berisi analisis **pengelompokan hierarki (hierarchical clustering)** 
 ## 🛠️ Tools & Packages
 Implemented in **R** with the following packages: 
 
-```r
+r
 library(dplyr)
 library(REdaS) 
 library(psych)
