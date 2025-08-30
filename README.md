@@ -28,15 +28,15 @@ library(readxl)
 
 
 🔎 Methodology
-
-Data preprocessing (cleaning, standardization)
-Calculation of distance matrix (Euclidean distance)
-Hierarchical clustering using Complete Linkage method
-Visualization of dendrogram for cluster interpretation
+1. Data preprocessing (cleaning, standardization)  
+2. Calculation of distance matrix (Euclidean distance)  
+3. Hierarchical clustering using Complete Linkage method  
+4. Visualization of dendrogram for cluster interpretation  
 
 📈 Results
 🔗 Clustering Dendrogram
 The analysis successfully identified production clusters, which can be used for **agricultural planning and policy recommendations**.
+
 ![Clustering Result](Clustering_result.jpeg)
 
 ## ✅ Key Insight
