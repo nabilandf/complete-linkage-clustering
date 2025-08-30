@@ -5,15 +5,15 @@ Proyek ini berisi analisis **pengelompokan hierarki (hierarchical clustering)** 
 ---
 
 ## 📊 Dataset
-- **Sumber:** Data produksi kunyit per kecamatan (file: `data_bio.xlsx`)  
-- **Variabel utama:**
-  - `Produksi Kunyit (kg)`
-  - `Luas Panen Kunyit (ha)`
+- **Source**: Production data of turmeric per district (`data_bio.xlsx`)  
+- **Variables**:
+  - Production (kg)  
+  - Harvested Area (ha) 
 
 ---
 
 ## 🛠️ Tools & Packages
-Project ini menggunakan R dengan beberapa package berikut:
+Implemented in **R** with the following packages: 
 
 ```r
 library(dplyr)
@@ -26,9 +26,11 @@ library(tidyverse)
 library(readxl)
 
 
-## Hasil Klaster Complete Linkage
+## 📊 Results
+The analysis successfully identified production clusters, which can be used for **agricultural planning and policy recommendations**.
 
-![Clustering Result](Clustering%20Result.png)
+### 📌 Clustering Dendrogram
+![Clustering Result](Clustering_result.png)
 
 ## ✅ Key Insight
 - Districts with similar production and harvested area characteristics are grouped into the same cluster.  
