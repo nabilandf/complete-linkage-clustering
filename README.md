@@ -25,5 +25,11 @@ library(factoextra)
 library(tidyverse)
 library(readxl)
 
+
 ## Hasil Klaster Complete Linkage
-![Hasil Klaster](Clustering_result.png)
+
+![Clustering Result](Clustering%20Result.png)
+
+## ✅ Key Insight
+- Districts with similar production and harvested area characteristics are grouped into the same cluster.  
+- These findings can guide **resource allocation** and **development focus**.
