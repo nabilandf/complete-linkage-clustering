@@ -26,12 +26,17 @@ library(tidyverse)
 library(readxl)
 
 
+🔎 Methodology
 
-## 📊 Results
+Data preprocessing (cleaning, standardization)
+Calculation of distance matrix (Euclidean distance)
+Hierarchical clustering using Complete Linkage method
+Visualization of dendrogram for cluster interpretation
+
+📈 Results
+🔗 Clustering Dendrogram
 The analysis successfully identified production clusters, which can be used for **agricultural planning and policy recommendations**.
-
-### 📌 Clustering Dendrogram
-![Clustering Result](Clustering_result.png)
+![Clustering Result](Clustering_result.jpeg)
 
 ## ✅ Key Insight
 - Districts with similar production and harvested area characteristics are grouped into the same cluster.  
