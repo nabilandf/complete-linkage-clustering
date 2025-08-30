@@ -24,3 +24,6 @@ library(cluster)
 library(factoextra)
 library(tidyverse)
 library(readxl)
+
+## Hasil Klaster Complete Linkage
+![Hasil Klaster](Clustering_result.png)
