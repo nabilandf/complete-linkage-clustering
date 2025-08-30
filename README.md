@@ -1,6 +1,11 @@
 # 🌿 Complete Linkage Clustering - Data Produksi Kunyit
 
-This project presents a hierarchical clustering analysis using the Complete Linkage method on turmeric production data by district. The analysis was conducted in R and includes data preprocessing, assumption testing, cluster formation, and validation using the Silhouette Method.
+This project involves hierarchical clustering using the Complete Linkage method on turmeric production data across districts.  
+The analysis was carried out in R, covering:
+- Data preprocessing  
+- Assumption checking  
+- Cluster formation  
+- Validation with the Silhouette Method
 ---
 
 ## 📊 Dataset
